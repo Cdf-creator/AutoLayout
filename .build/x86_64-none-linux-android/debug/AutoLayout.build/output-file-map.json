@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/master.swiftdeps"
+  },
+  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/Extensions/Pages/main.page.ext.swift": {
+    "dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Pages/main.page.ext.d",
+    "object": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Pages/main.page.ext.swift.o",
+    "swiftmodule": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Pages/main.page.ext~partial.swiftmodule",
+    "swift-dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Pages/main.page.ext.swiftdeps"
+  },
+  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/Extensions/Proxies/AutoLayout.swift": {
+    "dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Proxies/AutoLayout.d",
+    "object": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Proxies/AutoLayout.swift.o",
+    "swiftmodule": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Proxies/AutoLayout~partial.swiftmodule",
+    "swift-dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/Extensions/Proxies/AutoLayout.swiftdeps"
+  },
+  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/main.page.swift": {
+    "dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/main.page.d",
+    "object": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/main.page.swift.o",
+    "swiftmodule": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/main.page~partial.swiftmodule",
+    "swift-dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/main.page.swiftdeps"
+  },
+  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/start.swift": {
+    "dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/start.d",
+    "object": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/start.swift.o",
+    "swiftmodule": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/start~partial.swiftmodule",
+    "swift-dependencies": "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/.build/x86_64-none-linux-android/debug/AutoLayout.build/start.swiftdeps"
+  }
+}
