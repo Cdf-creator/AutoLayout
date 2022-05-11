@@ -1,8 +1,0 @@
-version: "Swift version 5.4-dev (LLVM cf0195a2f45d22e, Swift a5283e77ba25aeb)"
-options: "79a53c0103cf71615a1caa552ce3446b"
-build_time: [1642673654, 986517000]
-inputs:
-  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/Extensions/Pages/main.page.ext.swift": [1642673632, 980686385]
-  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/Extensions/Proxies/AutoLayout.swift": [1642673652, 57407094]
-  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/main.page.swift": [1642673151, 676357407]
-  "/Users/olanrewajuolakunle/Downloads/SCADE/AutoLayout/Sources/AutoLayout/start.swift": [1642673151, 679774805]
